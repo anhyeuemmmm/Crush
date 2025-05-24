@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi crush của tớ",
-    introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
+    titleWeb: "Gửi embe của anhbe",
+    introTitle: 'Hé luuu ',
+    introDesc: `Anh có điều này muốn hỏi em nhớ phải trả lời thật lòng nhaaa:3333`,
+    btnIntro: '^^^^',
+    title: 'Em có đồng ý làm người yêu anh  🥰',
+    desc: 'Thoát web là chấp nhận làm người yêu anh rồi nhé!!!',
+    btnYes: 'Đồng ý <33',
+    btnNo: 'Hông nha :3',
+    question: 'Lí do em chấp nhận làm người yêu anh là gii dọ <3',
+    btnReply: 'Gửi cho anhbe <3',
+    reply: 'Vì em yêu anh <33333333',
+    mess: 'Anh biết mà 🥰. Yêu bé nhiều nhiều 😘😘',
+    messDesc: 'Tối nay, mình cùng chơi game nhóoo.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://facebook.com/dinhkaito' //link mess của các bạn. VD: /dinhkaito
+
 }
